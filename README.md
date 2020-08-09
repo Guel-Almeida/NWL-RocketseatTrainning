@@ -1,7 +1,7 @@
 # NWL-RocketseatTrainning
 
 <h1 align="center">
-     ♻️ <a href="#" alt="Profy"> Proffy </a>
+     <a href="#" alt="Profy"> Proffy </a>
 </h1>
   
 Na semana de 3 à 9 aconteceu o evento da Rocketseat denominada NWL onde em uma semana é ensinado conteudo exclusivo e intenso sobre uma Stack.
