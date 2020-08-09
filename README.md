@@ -4,6 +4,8 @@
      ♻️ <a href="#" alt="Profy"> Proffy </a>
 </h1>
   
+Na semana de 3 à 9 aconteceu o evento da Rocketseat denominada NWL onde em uma semana é ensinado conteudo exclusivo e intenso sobre uma Stack.
+nesta semana foi React, React Native e Nodejs com typeScript. foi uma explosão de conteuno intenso e este é o produto final do evento.
 
 <h4 align="center">
 	🚧   Versão 1 Concluído  🚀 🚧
@@ -86,7 +88,7 @@ Este projeto é divido em três partes:
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-para toda informacao acesse <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a>
+para toda informacao acesse <p><a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
 
 #### 🎲 Rodando o Backend (servidor)
 
@@ -106,17 +108,22 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
+```
+ou 
+```
+$ yarn start
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
 ```
 <p align="center">
-  <a href="https://github.com/Guel-Almeida/NWL-RocketseatTrainning/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"/>
+	usa o insomnia para testar a Api
 </p>
 
 
 #### 🧭 Rodando a aplicação web (Frontend)
-
+<p>para saber sobre a configuração inteira de toda a bibliotecas <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
 ```bash
 
 # Clone este repositório se ainda não o fez
@@ -133,6 +140,40 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
+```
+ou 
+```
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+---
+
+
+#### 🧭 Rodando a aplicação Mobile 
+<p>dpara saber sobre a configuração inteira de toda a bibliotecas <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
+```bash
+
+# Clone este repositório se ainda não o fez
+$ git clone https://github.com/Guel-Almeida/NWL-RocketseatTrainning/
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd NWL-RocketseatTrainning
+
+# Vá para a pasta da aplicação Front End
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+```
+ou 
+```
+$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
