@@ -108,14 +108,11 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
-```
-ou 
-```
-$ yarn start
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
 ```
+
 <p align="center">
   <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"/>
 	usa o insomnia para testar a Api
@@ -140,10 +137,6 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
-```
-ou 
-```
-$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
@@ -153,7 +146,7 @@ $ yarn start
 
 
 #### 🧭 Rodando a aplicação Mobile 
-<p>dpara saber sobre a configuração inteira de toda a bibliotecas <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
+<p>para saber sobre a configuração inteira de toda a bibliotecas <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
 ```bash
 
 # Clone este repositório se ainda não o fez
@@ -170,10 +163,6 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
-```
-ou 
-```
-$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
