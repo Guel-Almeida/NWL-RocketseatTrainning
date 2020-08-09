@@ -175,8 +175,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
 
-> Veja o arquivo  [package.json](https://github.com/Guel-Almeida/NWL-RocketseatTrainning/
-/blob/master/web/package.json)
+
 
 #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -186,8 +185,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
 
-> Veja o arquivo  [package.json](https://github.com/Guel-Almeida/NWL-RocketseatTrainning/
-/blob/master/server/package.json)
+
 
 #### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
