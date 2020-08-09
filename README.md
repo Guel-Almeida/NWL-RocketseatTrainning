@@ -113,14 +113,9 @@ $ npm run dev:server
 
 ```
 
-<p align="center">
-  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"/>
-	usa o insomnia para testar a Api
-</p>
-
-
 #### 🧭 Rodando a aplicação web (Frontend)
-<p>para saber sobre a configuração inteira de toda a bibliotecas <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
+
+
 ```bash
 
 # Clone este repositório se ainda não o fez
@@ -144,9 +139,9 @@ $ npm run start
 
 ---
 
-
-#### 🧭 Rodando a aplicação Mobile 
 <p>para saber sobre a configuração inteira de toda a bibliotecas <a href="https://www.notion.so/Instala-o-3d8bc65b8a0f48249bf3037156eb0a15">aqui</a></p>
+#### 🧭 Rodando a aplicação Mobile 
+
 ```bash
 
 # Clone este repositório se ainda não o fez
